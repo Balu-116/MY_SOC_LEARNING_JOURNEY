@@ -3,7 +3,7 @@ Welcome to my personal journey in the world of cybersecurity! This repository se
 
 Here, you'll find:
 
-**Incident Response Simulations:** Detailed reports on simulated/AI generated security incidents, from initial alert triage to post-incident analysis. Each scenario walks through my thought process, investigative steps, and proposed remediation steps.
+**Incident Response Simulations:** Detailed reports on simulated/AI generated security events or incidents, from initial alert triage to post-incident analysis. Each scenario walks through my thought process, investigative steps, and proposed remediation steps.
 
 **Threat Intelligence Deep Dives:** Analyses of current sector-specific threats and comprehensive breakdowns of threat actor tactics, techniques, and procedures (TTPs).[Coming Soon]
 
